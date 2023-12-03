@@ -38,7 +38,10 @@
     border-radius: 8px;
     gap: 30px;
     box-shadow: 5px 5px 8px rgba(0,0,0,0.336);
+    /* 
+    ERRO NA LINHA ABAIXO
     height: fit-content;
+    */
     animation: dark-to-light 0.3s ease-in-out;
 }
 
