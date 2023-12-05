@@ -1,0 +1,4 @@
+    ~ Tela de Login interativa baseada em um projeto do figma (https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFtLW9NN1pwTGpXU0JuVEVMNHp0YjhxTTdWd3xBQ3Jtc0ttNkdFR1RES1BLMHYzWXdKczR2WWNudkozeGsyaFROMmRHMmd2T0p6NFFPMW1oY2Q4MzFzNjJrSHJGYVVaNHI3R2lFbDI5Mk1yU1htWmdZSG13WUNDcUpNZHNfb3FqYWRoN0cwYlRRc0xtdWQyZHVTYw&q=https%3A%2F%2Fwww.figma.com%2Ffile%2F2v1kiXUASdj7r84GnbJAFT%2Flogin-youtube&v=-lfa4noP46U)
+
+    edit1: preciso realizar mais comentarios no código e dos campos aos quais eu não entender o que ele está fazendo
+    edit2: o projeto consiste na parte visual da tela,tags semânticas, FlexBox CSS, transition para animações entre outras boas práticas
