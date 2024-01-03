@@ -2,3 +2,4 @@
 
     edit1: preciso realizar mais comentarios no código e dos campos aos quais eu não entender o que ele está fazendo
     edit2: o projeto consiste na parte visual da tela,tags semânticas, FlexBox CSS, transition para animações entre outras boas práticas
+    edit3: ainda falta muita coisa do projeto mas nessa parte do commit que fiz, estou editando os ícones, preciso entender melhor como escolho o seu tamanho e como faço sua centralização.
