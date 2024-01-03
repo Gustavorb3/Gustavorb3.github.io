@@ -1,4 +1,4 @@
 .form-title {
     font-size: 3rem;
-    font-family: 'Red Hat Display', sans-serif;
+    color: var(--text-color-dark)
 }
