@@ -1,0 +1,5 @@
+.form-input-container {
+    width: 290px;
+    height: 39px;
+    flex-shrink: 0;
+}
