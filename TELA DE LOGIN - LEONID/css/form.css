@@ -8,10 +8,11 @@
     padding: 55px 0;
 }
 
-/*.form-login {
+*
+.form-login {
     background-color: tomato;
 }
 
 .form-cadastro {
-    background-color: green;
+    background-color: rgb(255, 255, 255);
 }
